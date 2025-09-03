@@ -19,3 +19,5 @@
 #Copiamos y pegamos esa opción en nuestro Git
 
 #Nos pedirá iniciar sesión y cuando lo hagamos ya tendremos nuestra conexión exitosa
+
+#Para subir nuestros commits agregamos el git add (el nombre de nuetro txt o md) después el git commit -m " " y por ultimo el git push para enviarlo a GitHub
