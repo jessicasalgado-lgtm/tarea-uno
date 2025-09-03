@@ -15,3 +15,5 @@
 #Luego creamos un repositorio remoto en Git hub con cualquier nombre 
  
 #Al crearla nos dará dos opciones para poder conectar nuestro repositorio remoto con el local y escogeremos la segunda
+
+#Copiamos y pegamos esa opción en nuestro Git
