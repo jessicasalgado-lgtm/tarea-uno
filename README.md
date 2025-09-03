@@ -11,3 +11,5 @@
 #Debemos crear una carpeta en nuestro explorador de archivo con cualquier nombre
 
 #En esa carpeta creamos un archivo de texto con el nombre README.md y lo ubicamos en nuestro Git con cd
+
+#Luego creamos un repositorio remoto en Git hub con cualquier nombre 
