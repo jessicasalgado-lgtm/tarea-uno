@@ -17,3 +17,5 @@
 #Al crearla nos dará dos opciones para poder conectar nuestro repositorio remoto con el local y escogeremos la segunda
 
 #Copiamos y pegamos esa opción en nuestro Git
+
+#Nos pedirá iniciar sesión y cuando lo hagamos ya tendremos nuestra conexión exitosa
