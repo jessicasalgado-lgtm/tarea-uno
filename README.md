@@ -6,3 +6,5 @@
 
 #Volvemos a nuestro Git y agregamos nuestro usuario con el comando git config --global user.name "usuario"
 
+#Tambien agregamos nuestro correo con el comando git config --global user.email correo
+
