@@ -8,3 +8,5 @@
 
 #Tambien agregamos nuestro correo con el comando git config --global user.email correo
 
+#Debemos crear una carpeta en nuestro explorador de archivo con cualquier nombre
+
