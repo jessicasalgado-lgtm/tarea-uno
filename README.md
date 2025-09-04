@@ -25,3 +25,12 @@
 
 
 #Clase 2
+#Veremos los distintos comandos que nos enseñaron
+#git checkout -b o git switch -c (Crear ramas)
+#git switch - (Devolvernos a otra rama)
+#git branch -d (Eliminar ramas)
+#git Branch - (Listar ramas existentes)
+#git merge - (unión entre ramas)
+#git stash - (Cambios temporales)
+#git stash list - (lista de los cambios temporales)
+#git stash pop - (Permite editar tu cambio)
