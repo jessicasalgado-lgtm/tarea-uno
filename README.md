@@ -25,3 +25,4 @@
 
 
 #Clase 2
+# En la clase vimos lo que eran ramas, commits y varios comandos, se explico el como se podía generar varias ramas dentro de un mismo proyecto y el porque son útiles, además de el orden de cada una de ellas y para que sirve cada una de ellas, con los commits nos explicaron como realizarlos en base a lo que se va haciendo, por si haces una nueva funcionalidad o un arreglo de algún bug con su respectivo alcance que es la zona para cual se realiza este commit y algunos comandos que nos servirán para este tema y lo que veremos y afrontaremos en el futuro.
