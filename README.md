@@ -25,4 +25,14 @@
 
 
 #Clase 2
+
 # En la clase vimos lo que eran ramas, commits y varios comandos, se explico el como se podía generar varias ramas dentro de un mismo proyecto y el porque son útiles, además de el orden de cada una de ellas y para que sirve cada una de ellas, con los commits nos explicaron como realizarlos en base a lo que se va haciendo, por si haces una nueva funcionalidad o un arreglo de algún bug con su respectivo alcance que es la zona para cual se realiza este commit y algunos comandos que nos servirán para este tema y lo que veremos y afrontaremos en el futuro.
+
+
+#Para crear un rama debemos utilizar el git checkout -b + "nombre de la rama" o el git switch -c + "nombre de la rama"
+#Para devolvernos a la rama anterior (por si tienes otra) se utiliza git switch - y te devolverá a la anterior
+#Se debe generar un commit o un stash para poder cambiar de rama ya que si no se genera un conflicto 
+#El stash nos dejara confirmar un cambio de manera temporal por si aun necesitas implementar algo más.
+#El conflicto se soluciona en el mismo Readme y terminando con un commit, a la hora de que te aparezca un conflicto el readme te documentara el error y tu lo puedes corregir dejando el cambio que necesites o combinándolos y finalizas con un commit.
+#Para implementar los cambios que tuviste en una de tus ramas para otra de ellas o para main ocupas el comando merge.
+
